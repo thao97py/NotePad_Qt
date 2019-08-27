@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>icons8-new-24.png</file>
+        <file>icons8-open-door-30.png</file>
+        <file>icons8-paste-32.png</file>
+        <file>icons8-save-50.png</file>
+        <file>../../../tool icons/icons8-exit-100.png</file>
+        <file>../../../tool icons/icons8-copy-64.png</file>
+        <file>../../../tool icons/icons8-edit-64.png</file>
+        <file>../../../tool icons/printer.png</file>
+        <file>../../../tool icons/scissors.png</file>
+        <file>../../../tool icons/undo-arrow.png</file>
+        <file>../../../tool icons/icons8-redo-50.png</file>
+        <file>../../../tool icons/writing.png</file>
+    </qresource>
+</RCC>
